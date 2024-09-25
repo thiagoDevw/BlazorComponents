@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "S:\\Metodo.NET\\Blazor\\BlazorComponent\\BlazorComponent\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{21BE5C43-F5BE-4089-B09D-3EABD6E0227A}|BlazorComponent\\BlazorComponent.csproj|s:\\metodo.net\\blazor\\blazorcomponent\\blazorcomponent\\blazorcomponent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BE5C43-F5BE-4089-B09D-3EABD6E0227A}|BlazorComponent\\BlazorComponent.csproj|solutionrelative:blazorcomponent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{21BE5C43-F5BE-4089-B09D-3EABD6E0227A}|BlazorComponent\\BlazorComponent.csproj|s:\\metodo.net\\blazor\\blazorcomponent\\blazorcomponent\\blazorcomponent\\components\\pages\\medicos\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{21BE5C43-F5BE-4089-B09D-3EABD6E0227A}|BlazorComponent\\BlazorComponent.csproj|solutionrelative:blazorcomponent\\components\\pages\\medicos\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BE5C43-F5BE-4089-B09D-3EABD6E0227A}|BlazorComponent\\BlazorComponent.csproj|s:\\metodo.net\\blazor\\blazorcomponent\\blazorcomponent\\blazorcomponent\\components\\pages\\medicos\\medicotemplatelist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21BE5C43-F5BE-4089-B09D-3EABD6E0227A}|BlazorComponent\\BlazorComponent.csproj|solutionrelative:blazorcomponent\\components\\pages\\medicos\\medicotemplatelist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21BE5C43-F5BE-4089-B09D-3EABD6E0227A}|BlazorComponent\\BlazorComponent.csproj|s:\\metodo.net\\blazor\\blazorcomponent\\blazorcomponent\\blazorcomponent\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{21BE5C43-F5BE-4089-B09D-3EABD6E0227A}|BlazorComponent\\BlazorComponent.csproj|s:\\metodo.net\\blazor\\blazorcomponent\\blazorcomponent\\blazorcomponent\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{21BE5C43-F5BE-4089-B09D-3EABD6E0227A}|BlazorComponent\\BlazorComponent.csproj|solutionrelative:blazorcomponent\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21BE5C43-F5BE-4089-B09D-3EABD6E0227A}|BlazorComponent\\BlazorComponent.csproj|s:\\metodo.net\\blazor\\blazorcomponent\\blazorcomponent\\blazorcomponent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21BE5C43-F5BE-4089-B09D-3EABD6E0227A}|BlazorComponent\\BlazorComponent.csproj|solutionrelative:blazorcomponent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21BE5C43-F5BE-4089-B09D-3EABD6E0227A}|BlazorComponent\\BlazorComponent.csproj|s:\\metodo.net\\blazor\\blazorcomponent\\blazorcomponent\\blazorcomponent\\repositories\\medicorepositorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +42,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "MedicoTemplateList.razor",
+              "DocumentMoniker": "S:\\Metodo.NET\\Blazor\\BlazorComponent\\BlazorComponent\\BlazorComponent\\Components\\Pages\\Medicos\\MedicoTemplateList.razor",
+              "RelativeDocumentMoniker": "BlazorComponent\\Components\\Pages\\Medicos\\MedicoTemplateList.razor",
+              "ToolTip": "S:\\Metodo.NET\\Blazor\\BlazorComponent\\BlazorComponent\\BlazorComponent\\Components\\Pages\\Medicos\\MedicoTemplateList.razor",
+              "RelativeToolTip": "BlazorComponent\\Components\\Pages\\Medicos\\MedicoTemplateList.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T14:33:01.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "S:\\Metodo.NET\\Blazor\\BlazorComponent\\BlazorComponent\\BlazorComponent\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "BlazorComponent\\Components\\Layout\\NavMenu.razor",
@@ -50,38 +66,36 @@
               "RelativeToolTip": "BlazorComponent\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-24T21:45:17.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T21:45:17.766Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.razor",
               "DocumentMoniker": "S:\\Metodo.NET\\Blazor\\BlazorComponent\\BlazorComponent\\BlazorComponent\\Components\\Pages\\Medicos\\Index.razor",
               "RelativeDocumentMoniker": "BlazorComponent\\Components\\Pages\\Medicos\\Index.razor",
               "ToolTip": "S:\\Metodo.NET\\Blazor\\BlazorComponent\\BlazorComponent\\BlazorComponent\\Components\\Pages\\Medicos\\Index.razor",
               "RelativeToolTip": "BlazorComponent\\Components\\Pages\\Medicos\\Index.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-24T21:34:49.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T21:34:49.781Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "S:\\Metodo.NET\\Blazor\\BlazorComponent\\BlazorComponent\\BlazorComponent\\Program.cs",
               "RelativeDocumentMoniker": "BlazorComponent\\Program.cs",
               "ToolTip": "S:\\Metodo.NET\\Blazor\\BlazorComponent\\BlazorComponent\\BlazorComponent\\Program.cs",
               "RelativeToolTip": "BlazorComponent\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T21:28:43.485Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MedicoRepositorie.cs",
               "DocumentMoniker": "S:\\Metodo.NET\\Blazor\\BlazorComponent\\BlazorComponent\\BlazorComponent\\Repositories\\MedicoRepositorie.cs",
               "RelativeDocumentMoniker": "BlazorComponent\\Repositories\\MedicoRepositorie.cs",
@@ -93,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IMedicoRepositories.cs",
               "DocumentMoniker": "S:\\Metodo.NET\\Blazor\\BlazorComponent\\BlazorComponent\\BlazorComponent\\Repositories\\IMedicoRepositories.cs",
               "RelativeDocumentMoniker": "BlazorComponent\\Repositories\\IMedicoRepositories.cs",
@@ -105,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "_Imports.razor",
               "DocumentMoniker": "S:\\Metodo.NET\\Blazor\\BlazorComponent\\BlazorComponent\\BlazorComponent\\Components\\_Imports.razor",
               "RelativeDocumentMoniker": "BlazorComponent\\Components\\_Imports.razor",
@@ -113,12 +127,11 @@
               "RelativeToolTip": "BlazorComponent\\Components\\_Imports.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-24T21:23:26.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T21:23:26.075Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Medico.cs",
               "DocumentMoniker": "S:\\Metodo.NET\\Blazor\\BlazorComponent\\BlazorComponent\\BlazorComponent\\Models\\Medico.cs",
               "RelativeDocumentMoniker": "BlazorComponent\\Models\\Medico.cs",
