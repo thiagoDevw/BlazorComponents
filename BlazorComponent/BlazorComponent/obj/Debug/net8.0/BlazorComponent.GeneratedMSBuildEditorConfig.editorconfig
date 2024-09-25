@@ -30,6 +30,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[S:/Metodo.NET/Blazor/BlazorComponent/BlazorComponent/BlazorComponent/Components/Pages/Headers/CustomHeader.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIZWFkZXJzXEN1c3RvbUhlYWRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [S:/Metodo.NET/Blazor/BlazorComponent/BlazorComponent/BlazorComponent/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 

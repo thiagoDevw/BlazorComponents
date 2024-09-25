@@ -2,7 +2,9 @@
 @inject IMedicoRepositories repository
 @rendermode InteractiveServer
 
-<h3>Médicos</h3>
+<CustomHeader>
+
+</CustomHeader>
 
 <table class="table table-striped">
     <tread>
@@ -14,7 +16,7 @@
         </tr>
     </tread>
     <tbody>
-        <MedicoTemplateList Medicos="@Medicos" DeleteCallBack="Delete"/>
+        <MedicoTemplateList Medicos="@Medicos" DeleteCallBack="Delete" />
     </tbody>
 </table>
 
