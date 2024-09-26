@@ -1,5 +1,6 @@
-﻿@page "/counter"
+﻿@page "/counter/{currentCount:int?}"
 @rendermode InteractiveServer
+@inject NavigationManager navigation
 
 <PageTitle>Counter</PageTitle>
 
@@ -9,11 +10,21 @@
 
 <button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
 
+<button class="btn btn-outline-warning" @onclick="GoToMedico">Ir para médicos</button>
+
+<NavLink href="/medicos" class="btn btn-danger">Ir para médicos</NavLink>
+
 @code {
-    private int currentCount = 0;
+    [Parameter]
+    public int currentCount { get; set; } = 0;
 
     private void IncrementCount()
     {
         currentCount++;
+    }
+
+    public void GoToMedico()
+    {
+        navigation.NavigateTo("/medicos");
     }
 }
