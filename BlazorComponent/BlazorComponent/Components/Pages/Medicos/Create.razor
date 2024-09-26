@@ -1,0 +1,32 @@
+﻿@page "/medico/create"
+@rendermode InteractiveServer
+
+<CustomHeader>
+    Cadastro de Médicos
+</CustomHeader>
+
+<EditForm Model="Model">
+
+    <DataAnnotationsValidator/>
+
+    @*<ValidationSummary/>*@
+
+    <div class="mb-3">
+        <label for="Nome" class="form-label">Nome</label>
+        <InputText @bind-Value="Model.Name" class="form-control"/>
+        <ValidationMessage For="() => Model.Name"/>
+    </div>
+
+    <div class="mb-3">
+        <label for="CRM" class="form-label">CRM</label>
+        <InputText @bind-Value="Model.Crm" class="form-control"/>
+        <ValidationMessage For="() => Model.Crm"/>
+    </div>
+
+    <button class="btn btn-primary" type="submit">SALVAR</button>
+
+</EditForm>
+
+@code {
+    public Medico Model { get; set; } = new Medico();
+}
